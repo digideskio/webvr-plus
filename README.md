@@ -8,7 +8,7 @@ Adds these new properties of functions:
   * headMatrix
   * leftEyeMatrix
   * rightEyeMatrix
-  * transform
+  * transform()
 
 * VRDisplay
   * getStandingFrameData()
